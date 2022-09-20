@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a front-end developer with 8 months experience.
+I am a front-end developer with 8 months experience (commercial, non-educational).
 I am also interested in back-end development, but for myself.
 
 
