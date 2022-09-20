@@ -11,5 +11,3 @@ I am also interested in back-end development, but for myself.
 ![Averito stats](https://github-readme-stats.vercel.app/api?username=Averito&show_icons=true)
 
 ![Averito most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Averito&theme=blue-green)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
